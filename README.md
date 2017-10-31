@@ -5,7 +5,7 @@
 
 # Sekilas Tentang
 
-Rocket.Chat adalah solusi obrolan chat berbasis open source. aplikasi ini dapat berjalan dengan desktop os, android, ios  atau dengan free trial cloud demo di web.
+<div >Rocket.Chat adalah solusi obrolan chat berbasis open source. aplikasi ini dapat berjalan dengan desktop os, android, ios  atau dengan free trial cloud demo di web.
 
 Rocket.chat merupakan sebuah perusahaan yang menciptakan aplikasi berbasis web dengan nama persis seperti nama perusahaannya yaitu Rocket.chat, yang berdasarkan nilai  open source dan kecintaan akan efisiensi. Perusahaan tersebut didukung oleh beberapa komunitas kontributor dari berbagai belahan dunia yang luar biasa, dengan anggota tim yang berbakat, yang bekerja tanpa lelah untuk menjaga agar kode tetap menjadi standar yang tinggi dan membuat hidup kontributor menjadi lebih mudah, yang dipimpin oleh  Gabriel Engel sebagai CEO nya.
 
@@ -175,21 +175,21 @@ server {
 }
 ```
 
-> Pada konfigurasi ini, server sudah memiliki dua layanan web server nginx pada port 443 https dan rocketchat pada port 3000. Konfigurasi dapat berfungsi apabila kedua layanan ini berjalan. Karenanya sebelum mengakses _url_ [https://localhost](https://localhost), terlebih dahulu jalankan layanan rocketchat. node ~/Rocket.Chat/main.js
+> Dengan konfigurasi ini, server sudah memiliki dua layanan web server nginx pada port 443 https dan rocketchat pada port 3000. Konfigurasi dapat berfungsi apabila kedua layanan ini berjalan. Karenanya sebelum mengakses _url_ [https://localhost](https://localhost), terlebih dahulu jalankan layanan rocketchat. node ~/Rocket.Chat/main.js
 
 ## OAuth
 
 OAuth merupakan metode autentikasi meggunakan akun aplikasi lain. Rocket.Chat mendukung beberapa OAuth seperti GitHub, Facebook, Google. Fitur ini dapat dikonfigurasi pada Menu **[Administration > OAuth](https://localhost:4444/admin/OAuth)**.
 
-![Form OAuth - Rocket](images/oauth-form.png)
+![Form OAuth - Rocket](etc/oauth-form.png)
 
 **Client Id** dan **Client Secret** Github dapat diperoleh dari menu [**Settings > Developer settings > OAuth Apps**](https://github.com/settings/developers).
 
-![OAuth - Github](images/oauth-github.png)
+![OAuth - Github](etc/oauth-github.png)
 
 Tombol login dengan akun OAuth akan muncul pada halaman login.
 
-![Form Login OAuth - Rocket](images/oauth-login.png)
+![Form Login OAuth - Rocket](etc/oauth-login.png)
 <!--
 ## Layout
 
@@ -200,15 +200,15 @@ https://localhost:4444/admin/Layout
 
 Fitur Livechat memungkinkan layanan chat diakses dari halaman web.
 
-![LiveChat - Rocket](images/livechat-demo.png)
+![LiveChat - Rocket](etc/livechat-demo.png)
 
 Fitur ini dapat diaktifkan dari menu [**Administration > Livechat**](https://localhost:4444/admin/Livechat). Setelah mengaktifkan fitur ini, menu **Livechat Manager** akan ditampilkan pada _side-menu_ untuk mengakomodir pengelolaan Livechat lanjutan di antaranya pengaturan role user pada LiveChat dan departemen.
 
-![LiveChat - Rocket](images/livechat-menu.png)
+![LiveChat - Rocket](etc/livechat-menu.png)
 
 Pada menu [**Livechat Manager > Installaltion**](https://localhost:4444/livechat-manager/installation) diberikan script untuk diletakkan pada halaman web.
 
-![LiveChat - Rocket](images/livechat-installation.png)
+![LiveChat - Rocket](etc/livechat-installation.png)
 
 <!--#  Maintenance
 
