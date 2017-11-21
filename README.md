@@ -304,7 +304,7 @@ Disamping memiliki banyak kelebihan, Rocket Chat memiliki beberapa kekurangan ya
 Versi cloud dari Rocket Chat masih belum free
 Karena versi gratis dari Rocket Chat harus dihosting secara private, pengguna harus memahami tata cara instalasi Rocket Chat dan tata cara maintenance-nya.
 
-# Rocket Chat dan Slack
+# Rocket Chat dan Slack 
 
 Aplikasi Chat Service lain yang banyak digunakan saat ini adalah Slack. Salah satu sebab Slack mejadi aplikasi chat favorit karena mudah diintegrasikan dengan banyak tools, akan tetapi Slack sangat terbatas terutama dalam versi gratisnya dan versi berbayarnya sangat mahal. Berikut ini beberapa perbandingan antara Slack dan Rocket Chat:
 
