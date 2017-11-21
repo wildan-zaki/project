@@ -236,54 +236,57 @@ sudo service rocketchat start
 # Cara Pemakaian
 
 - Tampilan aplikasi web
-<div width="100%">
+
 ![Rocket](etc/gambar1.png)
-</div>
+
 <center>Gambar 1. fitur login dan daftar baru</center>
 
-<div width="100%">
+
 ![Rocket](etc/gambar2.png)
-</div>
+
 <center>Gambar 2. daftarkan akun baru apabila belum punya akun rocket.chat</center>
 
-<div width="100%">
+
 ![Rocket](etc/gambar3.png)
- </div>
+
 <center>Gambar 3. masukkan nama pengguna yang akan ditampilkan sebagai username</center>
 -->
-<div width="100%">
-![Rocket](etc/gambar4.ng)
+
+![Rocket](etc/gambar4.png)
+
 <center>Gambar 4. tampilan halaman utama/beranda rocket.chat</center
  -->
  
 - Fungsi-fungsi utama
 1. Membuat grup & channel
-<div width="100%">
+
 ![Rocket](etc/gambar5.png)
-<center></center>
+
 
 Membuat grup di Rocket.Chat dapat dilakukan dengan meng-klik tanda “+” yang berada disebelah kolom search. untuk tampilan lebih jelasnya dapat dilihat pada gambar 5 diatas.
 
 Selanjutnya kita bisa memilih ingin membuat grup atau channel dengan cara meng-klik button private channel. jika kita ingin membuat grup (private channel) maka kita pilih button tersebut menjadi warna hijau, seperti pada gambar 6 diatas. Selanjutnya jika kita ingin membuat channel (public channel) maka kita klik button tersebut sehingga warna nya berubah menjadi warna merah, seperti gambar 7 dibawah ini.
 -->
-<div width="100%">
+
 ![Rocket](etc/gambar6.png)
- 
+
  
 <center>Gambar 6. Mode Private</center> 
-<div width="100%">
- ![Rocket](etc/gambar7.png)
- 
+
+![Rocket](etc/gambar7.png)
+
 <center>Gambar 7. Mode Public</center>  
 
 Selanjutnya kita dapat menambahkan user yang ingin kita ajak bergabung kedalam grup/channel yang telah kita buat tadi dengan cara masukkan username pengguna di invite pengguna.
 
-<div width="100%">
 ![Rocket](etc/gambar8.png)
+
+
 <center>Gambar 8. Mention user lain</center>  
 
-<div width="100%">
+
 ![Rocket](etc/gambar9.png)
+
 
 <center>Gambar 9. Mention all user</center>  
 
